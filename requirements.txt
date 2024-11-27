@@ -1,0 +1,6 @@
+flask==2.3.2
+flask-sqlalchemy==3.0.5
+flask-mail==0.9.1
+flask-bcrypt==1.0.1
+pyotp==2.8.0
+load-dotenv==0.1.0
